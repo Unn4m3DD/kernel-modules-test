@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.pl": "prolog",
+    "*.bdl": "bdl",
+    "*.shader": "glsl",
+    "init.h": "c",
+    "module.h": "c"
+  }
+}

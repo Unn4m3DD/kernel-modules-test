@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [
+              "__GNUC__",
+              "__KERNEL__"
+            ],
+            "includePath": [
+              "${workspaceFolder}/**",
+              "/usr/include",
+              "/usr/local/include",
+              "/usr/src/linux/include",
+              "/usr/src/linux/arch/x86/include",
+              "/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"
+          ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
