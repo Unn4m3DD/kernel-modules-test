@@ -5,6 +5,10 @@
     "*.bdl": "bdl",
     "*.shader": "glsl",
     "init.h": "c",
-    "module.h": "c"
+    "module.h": "c",
+    "cdev.h": "c",
+    "main.h": "c",
+    "fstream": "c",
+    "fs.h": "c"
   }
 }
