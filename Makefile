@@ -13,4 +13,6 @@ install:
 		sudo insmod build/main.ko
 
 remove:
-		(! (lsmod | grep main)) || sudo rmmod main
+		sudo rmmod main
+
+install_ioctl:
