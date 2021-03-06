@@ -9,6 +9,16 @@
     "cdev.h": "c",
     "main.h": "c",
     "fstream": "c",
-    "fs.h": "c"
+    "fs.h": "c",
+    "functional": "c",
+    "kdev_t.h": "c",
+    "slab.h": "c",
+    "atomic": "c",
+    "*.tcc": "c",
+    "sstream": "c",
+    "stdio.h": "c",
+    "unistd.h": "c",
+    "system_error": "c",
+    "ioctl.h": "c"
   }
 }
